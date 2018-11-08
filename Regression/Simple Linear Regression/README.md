@@ -1,4 +1,5 @@
-Simple linear regression is a statistical method that allows us to study relationships between two continuous (quantitative) variables:
+## Simple linear regression ##
+is a statistical method that allows us to study relationships between two continuous (quantitative) variables:
 * One variable, denoted x, is regarded as the predictor or independent variable.
 * The other variable, denoted y, is regarded as the response, outcome, or dependent variable.
 

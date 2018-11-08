@@ -4,6 +4,7 @@ All of the code is in Python and is devided to subjects for example:
 * Clustering
   * Hierarchical Clustering
   * K-Means Clustering
+  
 most of the algorithems are based on the principle of minimizing the MSE (mean squere error)
 this could be shown with simple inear regression:
 

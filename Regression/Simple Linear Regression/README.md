@@ -13,7 +13,10 @@ n  = number of depended values
 
 MSE = (1/n)*SUM((y-y')^2)
 
-![picture ] https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse.JPG
+![picture alt](https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse.JPG)
 
 
-![picture ](https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse%20example.JPG)
+![picture alt](https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse%20example.JPG)
+
+Our goal is to minimize the error function and take the model in which the cost function is the smallest, and it describes the relation 
+between x and y in the best way.

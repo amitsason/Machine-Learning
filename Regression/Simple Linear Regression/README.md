@@ -13,5 +13,7 @@ n  = number of depended values
 
 MSE = (1/n)*SUM((y-y')^2)
 
+![picture ] https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse.JPG
+
 
 ![picture ](https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse%20example.JPG)

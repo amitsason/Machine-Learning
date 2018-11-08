@@ -9,11 +9,11 @@ to find the best line who describes the connection with minimmum error.
 let's take the MSE (mean squer error) function to measure the error between the depended variable to the predicted depended value,
 we can describe it like this:
 
-y  = independed value
-y' = predicted depended value
-n  = number of depended values
+* y  = independed value
+* y' = predicted depended value
+* n  = number of depended values
 
-MSE = (1/n)*SUM((y'-y)^2)
+### MSE = (1/n)*SUM((y'-y)^2) ###
 
 ![picture alt](https://github.com/amitsason/Machine-Learning/blob/master/Regression/Simple%20Linear%20Regression/mse.JPG)
 
